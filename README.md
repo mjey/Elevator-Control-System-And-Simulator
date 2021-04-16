@@ -32,7 +32,7 @@ Each elevator has:
 * **An elevator motor:** The motor moves the elevator between floors.
 * **An elevator door:** The elevator door also opens and closes the floor doors.
 ![Static Model of the Problem Domain](https://github.com/Mjeyz/Elevator-Control-System-And-Simulator/raw/main/Assets/Images/Static%20Model.JPG)
-Each floor has:
+<br>Each floor has:
 * **Up and down floor buttons:** The user presses a button to request an elevator. Note that the top and bottom 
 floors will only have one button.
 * **Floor lamps:** The lamps indicated which buttons have been pushed.
